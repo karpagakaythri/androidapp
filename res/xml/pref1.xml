@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:dialogTitle="IP Address" android:positiveButtonText="Save" android:dialogMessage="Enter Your Server IP Address" android:negativeButtonText="Cancel" android:key="ip" android:title="Set IP Address" android:summary="Set Your Server IP Address to Connect with"/>
+</PreferenceScreen>
